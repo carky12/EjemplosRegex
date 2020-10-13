@@ -1,6 +1,6 @@
 # Ejemplos de Expresiones Regulares
 
-Proyecto en el que se ven ejemplos de uso de expresiones regulares
+Proyecto en el que se ven ejemplos de uso de expresiones regulares. Para la parte de JavaScript se puede usar la página https://regexr.com/
 
 ## Tecnologías 🚀
 
@@ -27,4 +27,5 @@ Proyecto en el que se ven ejemplos de uso de expresiones regulares
 
 Puedes encontrar mucho más de cómo utilizar este proyecto y sobre el uso de expresiones regulares en nuestra [Wiki Personal](http://carky.synology.me/mediawiki/index.php?title=Gu%C3%ADa_r%C3%A1pida_de_Expresiones_Regulares)
 
-[carky](https://github.com/Villanuevand) 😊
+
+[carky](https://github.com/carky12) 😊
